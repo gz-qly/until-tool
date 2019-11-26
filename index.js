@@ -1,4 +1,7 @@
 
+/**
+ * 判断值是否为空
+ */
 function isEmpty(value) {
   return [undefined, null, '', false, true].some(function (item) { return item === value; })
     || (Array.isArray(value) && value.length === 0)
