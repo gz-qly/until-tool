@@ -1,6 +1,6 @@
 {
   "name": "until-tool",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "js常用库",
   "main": "index.js",
   "scripts": {
