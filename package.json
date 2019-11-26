@@ -1,0 +1,19 @@
+{
+  "name": "until-tool",
+  "version": "1.0.0",
+  "description": "js常用库",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gz-qly/until-tool.git"
+  },
+  "author": "gz-qly",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gz-qly/until-tool/issues"
+  },
+  "homepage": "https://github.com/gz-qly/until-tool#readme"
+}
